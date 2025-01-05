@@ -1,0 +1,18 @@
+@article{REPO203,
+    author = "Tang, Luming and Ruiz, Nataniel and Chu, Qinghao and Li, Yuanzhen and Holynski, Aleksander and Jacobs, David E. and Hariharan, Bharath and Pritch, Yael and Wadhwa, Neal and Aberman, Kfir and Rubinstein, Michael",
+    address = "New York, NY, USA",
+    articleno = "135",
+    doi = "10.1145/3658237",
+    issn = "0730-0301",
+    issue_date = "July 2024",
+    journal = "ACM Trans. Graph.",
+    keywords = "image completion, diffusion model",
+    month = "July",
+    number = "4",
+    numpages = "12",
+    publisher = "Association for Computing Machinery",
+    title = "{RealFill: Reference-Driven Generation for Authentic Image Completion}",
+    url = "https://doi.org/10.1145/3658237",
+    volume = "43",
+    year = "2024"
+}
